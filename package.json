@@ -10,7 +10,7 @@
   "dependencies": {
     "bcryptjs": "*",
     "body-parser": "*",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "connect-flash": "*",
     "cookie-parser": "*",
     "ejs": "*",
